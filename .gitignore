@@ -1,0 +1,5 @@
+lab3/calc
+lab3/lex.yy.c
+lab3/calc.tab.c
+lab3/calc.tab.h
+*.o
